@@ -1,11 +1,25 @@
-# 👋 Hi there! I'm Sandy J. Silva  
+# 👋 Olá! / Hi there!
 
-🚀 Exploring the world of technology with a focus on development and cloud computing.  
-🎓 Currently studying **Information Technology Management**.  
-💼 Experienced in **management and leadership**, transitioning to the **technical side of IT**.  
-📚 Currently learning **Java and AWS Certified Cloud Practitioner**.  
+☕ Meu nome é Jennifer, e este é o meu universo entre **código e café**.  
+💻 I'm Jennifer — exploring life between **coffee and code**.
 
-🌱 Seeking junior opportunities to grow with innovative companies.  
+---
 
-🌐 [LinkedIn](https://www.linkedin.com/in/sandy-j-silva-7103a91a1/)
-💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
+🎓 Estudante de **Gestão de Tecnologia da Informação**  
+💡 Curiosa por natureza, apaixonada por **pessoas**, **tecnologia**, **desenvolvimento** e **nuvem**.  
+🌱 Atualmente estudando e desenvolvendo com:  
+- Java | Python | HTML | CSS | JavaScript  
+- React | Tailwind | AWS | Azure
+
+---
+
+### 🔗 Links importantes:
+
+- 💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-j-silva-7103a91a1/)
+- ☕ [Diário do Café (em breve!)](https://github.com/sandyjsilva/diario-do-cafe)
+
+✨ Seja muito bem-vindo(a) ao meu GitHub — aqui compartilho projetos, aprendizados e paixões.  
+Welcome to my GitHub — where I share what I build and what inspires me.
+
+
