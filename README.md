@@ -8,4 +8,4 @@
 🌱 Seeking junior opportunities to grow with innovative companies.  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-j-silva-7103a91a1/)
-💻https://sandyjsilva.github.io/meu-portifolio/
+💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
