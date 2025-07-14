@@ -17,7 +17,7 @@
 
 - 💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-j-silva-7103a91a1/)
-- ☕ [Diário do Café (em breve!)](https://github.com/sandyjsilva/diario-do-cafe)
+- ☕ [Diário do Café](https://zesty-quokka-b4201e.netlify.app)
 
 ✨ Seja muito bem-vindo(a) ao meu GitHub — aqui compartilho projetos, aprendizados e paixões.  
 Welcome to my GitHub — where I share what I build and what inspires me.
