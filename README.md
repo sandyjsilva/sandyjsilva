@@ -16,7 +16,7 @@
 ### 🔗 Links importantes:
 
 - 💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-j-silva-7103a91a1/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-jennifer-da-silva-concei%C3%A7%C3%A3o-7103a91a1/)
 - ☕ [Diário do Café](https://zesty-quokka-b4201e.netlify.app)
 
 ✨ Seja muito bem-vindo(a) ao meu GitHub — aqui compartilho projetos, aprendizados e paixões.  
