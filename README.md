@@ -8,8 +8,7 @@
 🎓 Estudante de **Gestão de Tecnologia da Informação**  
 💡 Curiosa por natureza, apaixonada por **pessoas**, **tecnologia**, **desenvolvimento** e **nuvem**.  
 🌱 Atualmente estudando e desenvolvendo com:  
-- Java | Python | HTML | CSS | JavaScript  
-- React | Tailwind | AWS | Azure
+- Java | Python | HTML | CSS | JavaScript | React 
 
 ---
 
