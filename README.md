@@ -14,21 +14,24 @@
 
 ### 🔗 Links importantes:
 
-- 💻 [Meu Portifóio](https://sandyjsilva.github.io/meu-portifolio/)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sandy-jennifer-da-silva-concei%C3%A7%C3%A3o-7103a91a1/)
-- ☕ [O Grão Que Inspira](https://sandyjsilva.github.io/blog-cafe/)
-
- <div>
+<div>
   <a href="https://www.linkedin.com/in/sandy-jennifer-da-silva-concei%C3%A7%C3%A3o-7103a91a1/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-%232E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
 </div>
 
 <div>
   <a href="https://sandyjsilva.github.io/blog-cafe/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu%20Site%20de%20Café-%236F4E37?style=for-the-badge&logo=coffee&logoColor=white" alt="site-cafe">
+    <img src="https://img.shields.io/badge/-Meu%20Site%20de%20Café-%234CAF50?style=for-the-badge&logo=coffee&logoColor=white" alt="site-cafe">
   </a>
 </div>
+
+<div>
+  <a href="https://sandyjsilva.github.io/meu-portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio">
+  </a>
+</div>
+
 
 
 ✨ Seja muito bem-vindo(a) ao meu GitHub — aqui compartilho projetos, aprendizados e paixões.  
