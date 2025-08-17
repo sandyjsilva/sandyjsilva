@@ -21,16 +21,17 @@
 </div>
 
 <div>
+  <a href="https://sandyjsilva.github.io/meu-portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio">
+  </a>
+</div>
+
+<div>
   <a href="https://sandyjsilva.github.io/blog-cafe/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu%20Site%20de%20Café-%234CAF50?style=for-the-badge&logo=coffee&logoColor=white" alt="site-cafe">
   </a>
 </div>
 
-<div>
-  <a href="https://sandyjsilva.github.io/meu-portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio">
-  </a>
-</div>
 
 
 
