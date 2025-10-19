@@ -1,14 +1,13 @@
 # 👋 Olá! / Hi there!
 
-☕ Meu nome é Jennifer, e este é o meu universo entre **código e café**.  
-💻 I'm Jennifer — exploring life between **coffee and code**.
+☕ Meu nome é Sandy Jennifer, e este é o meu universo entre **código e café**.  
+💻 I'm Sandy Jennifer — exploring life between **coffee and code**.
 
 ---
 
-🎓 Estudante de **Gestão de Tecnologia da Informação**  
-💡 Curiosa por natureza, apaixonada por **pessoas**, **tecnologia**, **desenvolvimento** e **nuvem**.  
-🌱 Atualmente estudando e desenvolvendo com:  
-- Java | Python | HTML | CSS | JavaScript | React 
+ - Estudante de **Gestão de Tecnologia da Informação**
+ - Curiosa por natureza, apaixonada por **pessoas** e **tecnologia**.
+ - Desenvolvedora Front-end
 
 ---
 
@@ -25,9 +24,8 @@
    <a href="https://sandyjsilva.github.io/meu-portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio">
   </a>
-</div>
+</div> 
 
-✨ Seja muito bem-vindo(a) ao meu GitHub — aqui compartilho projetos, aprendizados e paixões.  
-Welcome to my GitHub — where I share what I build and what inspires me.
+### **✨ Welcome to my GitHub — where I share what I build and what inspires me.**
 
 
