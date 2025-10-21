@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-Meu%20Site%20de%20Café-%234CAF50?style=for-the-badge&logo=coffee&logoColor=white" alt="site-cafe">
   </a>
    <a href="https://sandyjsilva.github.io/sjconceicao.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio">
+    <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfólio-sjconceição.dev">
   </a>
 </div> 
 
