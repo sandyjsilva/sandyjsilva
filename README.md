@@ -1,5 +1,5 @@
 
-# 👋 Olá! / Hi there!
+# 👋 Hi there!
 
 💻 I'm Sandy Jennifer — exploring life between **coffee and code**.
 
