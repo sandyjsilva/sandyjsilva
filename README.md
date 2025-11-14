@@ -5,8 +5,8 @@
 
 ---
 
- - **Gestão de Tecnologia da Informação** Student
- - Front-end developer
+ - **Information Technology Management** student
+ - **Front-end** developer
 
 ---
 
