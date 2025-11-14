@@ -10,7 +10,7 @@
 
 ---
 
-### 🔗 Links de Contato:
+### 🔗 Links:
 
 <div>
   <a href="https://www.linkedin.com/in/sandy-jennifer-da-silva-concei%C3%A7%C3%A3o-7103a91a1/" target="_blank">
