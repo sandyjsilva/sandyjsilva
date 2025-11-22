@@ -1,7 +1,7 @@
 
 # 👋 Hi there!
 
-💻 I'm Sandy Jennifer — exploring life between **coffee and code**.
+💻 I'm Sandy Jennifer da Silva Conceição — can you call me by Jennifer!
 
 ---
 
