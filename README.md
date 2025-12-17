@@ -7,6 +7,7 @@
 
  - **Information Technology Management** student
  - **Front-end** developer
+ - **Marketing Digital** occupation
 
 ---
 
