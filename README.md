@@ -3,13 +3,9 @@
 
 💻 I'm Sandy Jennifer da Silva Conceição
 
----
-
  - **Information Technology Management** student
  - **Front-End & Data Analyst** developer
  - **Marketing Digital** occupation
-
----
 
 ### 🔗 Links:
 
