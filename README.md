@@ -1,12 +1,12 @@
 
 # 👋 Hi there!
 
-💻 I'm Sandy Jennifer da Silva Conceição — Can you call me by Jennifer! 
+💻 I'm Sandy Jennifer da Silva Conceição
 
 ---
 
  - **Information Technology Management** student
- - **Front-end** developer
+ - **Front-End & Data Analyst** developer
  - **Marketing Digital** occupation
 
 ---
