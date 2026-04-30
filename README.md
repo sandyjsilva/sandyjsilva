@@ -1,14 +1,4 @@
 
-# 👋 Hi there!
-
-💻 I'm Sandy Jennifer da Silva Conceição
-
- - **Information Technology Management** student
- - **Front-End & Data Analyst** developer
- - **Marketing Digital** occupation
-
-### 🔗 Links:
-
 <div>
   <a href="https://www.linkedin.com/in/sandy-jennifer-da-silva-concei%C3%A7%C3%A3o-7103a91a1/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%232E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
@@ -21,6 +11,14 @@
     <img src="https://img.shields.io/badge/-Portfólio-%2381C784?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfólio-sjconceição.dev">
   </a>
 </div> 
+
+# 👋 Hi there!
+
+💻 I'm Sandy Jennifer da Silva Conceição
+
+ - **Information Technology Management** student
+ - **Front-End & Data Analyst** developer
+ - **Marketing Digital** occupation
 
 ### **✨ Welcome to my GitHub — where I share what I build and what inspires me.**
 
