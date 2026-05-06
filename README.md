@@ -12,14 +12,13 @@
   </a>
 </div> 
 
-# 👋 Hi there!
+# 👋 Hi there! I'm Sandy Jennifer da Silva Conceição
+### **Welcome to my GitHub — where I share what I build and what inspires me.**
 
-💻 I'm Sandy Jennifer da Silva Conceição
 
- - **Information Technology Management** student
- - **Front-End & Data Analyst** developer
- - **Marketing Digital** occupation
 
-### **✨ Welcome to my GitHub — where I share what I build and what inspires me.**
+### **Latest Posts**
+<a href="https://medium.com/@sandyjenniferd.silva/abap-a-linguagem-que-sustenta-o-ecossistema-sap-9b1197a67e8d">- **Article Medium ABAP**</a>
 
+<a>- **Front-End**</a>
 
